@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jakeacampbell
-- 👀 I’ve recently rediscovered my passion for programmin and can't wait to build some fun applications!
+- 👀 I’ve recently rediscovered my passion for programming and can't wait to build some fun applications!
 - 🌱 Started building a Rubiks cube console application in C++
 - 📫 Contact me @ jcampbell.formal@gmail.com
 
