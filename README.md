@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakeacampbell
-- 👀 I’m interested in software development and gaming
-- 🌱 I’m currently working on a campus tour guide application
+- 👀 I’ve recently rediscovered my passion for programmin and can't wait to build some fun applications!
+- 🌱 Started building a Rubiks cube console application in C++
 - 📫 Contact me @ jcampbell.formal@gmail.com
 
 <!---
